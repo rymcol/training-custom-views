@@ -13,6 +13,7 @@
 		947698DD1C9DC16F0043A035 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 947698DB1C9DC16F0043A035 /* Main.storyboard */; };
 		947698DF1C9DC16F0043A035 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 947698DE1C9DC16F0043A035 /* Assets.xcassets */; };
 		947698E21C9DC16F0043A035 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 947698E01C9DC16F0043A035 /* LaunchScreen.storyboard */; };
+		947698EA1C9DC2840043A035 /* BlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 947698E91C9DC2840043A035 /* BlueButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		947698DE1C9DC16F0043A035 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		947698E11C9DC16F0043A035 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		947698E31C9DC16F0043A035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		947698E91C9DC2840043A035 /* BlueButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				947698DE1C9DC16F0043A035 /* Assets.xcassets */,
 				947698E01C9DC16F0043A035 /* LaunchScreen.storyboard */,
 				947698E31C9DC16F0043A035 /* Info.plist */,
+				947698E91C9DC2840043A035 /* BlueButton.swift */,
 			);
 			path = "custom-view";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				947698DA1C9DC16F0043A035 /* SecondViewController.swift in Sources */,
 				947698D61C9DC16F0043A035 /* AppDelegate.swift in Sources */,
 				947698D81C9DC16F0043A035 /* FirstViewController.swift in Sources */,
+				947698EA1C9DC2840043A035 /* BlueButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
